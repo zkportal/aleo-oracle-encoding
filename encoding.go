@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"aleo-oracle-encoding/positionRecorder"
+	"github.com/zkportal/aleo-oracle-encoding/positionRecorder"
 )
 
 var (
