@@ -1,12 +1,13 @@
 package aleoOracleEncoding
 
 import (
-	"aleo-oracle-encoding/positionRecorder"
 	"bytes"
 	"fmt"
 	"reflect"
 	"strings"
 	"testing"
+
+	"github.com/zkportal/aleo-oracle-encoding/positionRecorder"
 )
 
 func Test_pow(t *testing.T) {
